@@ -23,7 +23,7 @@ width="90"
 | Project                           |          Period         | Description                                                             |       Highlight      |
 | :-------------------------------- | :---------------------: | :---------------------------------------------------------------------- | :------------------: |
 | 🤖 **Autonomous AI Patrol Robot** |    2026.03 ~ 2026.11    | ROS2 / Nav2 자율주행 · LiDAR SLAM · Vision AI 이상행동 탐지 · Raspberry Pi / Pico | **Capstone Project** |
-| 🛵 **Yogiyo × Oracle Hackathon**  | 2026.07.27 ~ 2026.08.21 | 다건 배달 최적화 · 주문 클러스터링 · 조리시간 / 신선도 / 라이더 위치 기반 배차 |   🏆 **1st Place**   |
+| 🛵 **Yogiyo × Oracle Hackathon**  | 2026.07.27 ~ 2026.08.21 | 다건 배달 최적화 · 주문 클러스터링 · 조리시간 / 신선도 / 라이더 위치 기반 배차 |   **Finalist · Top 8**   |
 
 ---
 
