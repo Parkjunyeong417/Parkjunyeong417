@@ -22,8 +22,9 @@ width="90"
 
 | Project                           |          Period         | Description                                                             |       Highlight      |
 | :-------------------------------- | :---------------------: | :---------------------------------------------------------------------- | :------------------: |
-| 🤖 **Autonomous AI Patrol Robot** |    2026.03 ~ 2026.11    | ROS2 / Nav2 자율주행 · LiDAR SLAM · Vision AI 이상행동 탐지 · Raspberry Pi / Pico | **Capstone Project** |
+| 🧠 **Chungbuk AI Idea Contest** | 2025.11.27 | 개인 맞춤형 AI 튜터 `UNI` 설계 · U&I 학습유형 기반 LLM 힌트 · 자가 풀이 및 메타인지 피드백 | **🥉 3rd Place** |
 | 🛵 **Yogiyo × Oracle Hackathon**  | 2026.07.27 ~ 2026.08.21 | 다건 배달 최적화 · 주문 클러스터링 · 조리시간 / 신선도 / 라이더 위치 기반 배차 |   **Finalist · Top 8**   |
+| 🤖 **Autonomous AI Patrol Robot** |    2026.03 ~ 2026.11    | ROS2 / Nav2 자율주행 · LiDAR SLAM · Vision AI 이상행동 탐지 · Raspberry Pi / Pico | **Capstone Project** |
 
 ---
 
@@ -35,13 +36,14 @@ width="90"
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Language
 
-* **SQL Developer (SQLD)**
-* **Advanced Data Analytics Semi-Professional (ADsP)**
-* **Microsoft Office Specialist Master (MOS Master)**
-  * PowerPoint · Excel · Word · Access
-* **TOEIC — 650**
-* **TOEIC Speaking — 130**
+| Category | Qualification | Details |
+| :---: | :--- | :---: |
+| **Data** | SQL Developer (**SQLD**) | Certified |
+| **Data** | Advanced Data Analytics Semi-Professional (**ADsP**) | Certified |
+| **Office** | Microsoft Office Specialist Master (**MOS Master**) | PowerPoint · Excel · Word · Access |
+| **Language** | TOEIC | **650** |
+| **Language** | TOEIC Speaking | **130** |
 
 ---
