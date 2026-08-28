@@ -42,7 +42,7 @@ width="90"
 | :---: | :--- | :---: |
 | **Data** | SQL Developer (**SQLD**) | Certified |
 | **Data** | Advanced Data Analytics Semi-Professional (**ADsP**) | Certified |
-| **Office** | Microsoft Office Specialist Master (**MOS Master**) | PowerPoint · Excel · Word · Access |
+| **Office** | Microsoft Office Specialist Master (**MOS 2016 Master**) | PowerPoint · Excel · Word · Access |
 | **Language** | TOEIC | **650** |
 | **Language** | TOEIC Speaking | **130** |
 
