@@ -22,7 +22,7 @@ width="90"
 
 | Project | Period | Description | Highlight |
 | :--- | :---: | :--- | :---: |
-| 🧠 **Chungbuk AI Idea Contest** | 2025.11.27 | • 개인 맞춤형 AI 튜터 `UNI` 설계<br>• U&I 학습유형 기반 개인화<br>• LLM 힌트·자가 풀이·메타인지 피드백 | **🥉 3rd Place** |
+| 🧠 **Chungbuk AI Idea Contest** | 2025.10.01 ~ 2025.11.27 | • 개인 맞춤형 AI 튜터 `UNI` 설계<br>• U&I 학습유형 기반 개인화<br>• LLM 힌트·자가 풀이·메타인지 피드백 | **🥉 3rd Place** |
 | 🛵 **Yogiyo × Oracle Hackathon** | 2026.07.27 ~ 2026.08.21 | • AI 기반 조리시간 판단 보조<br>• 최대 3건 주문 패키징<br>• 90개 유효 방문 순서 완전탐색<br>• 고객·점주·라이더 3면 서비스 구현 | **Finalist · Top 8** |
 | 🤖 **Autonomous AI Patrol Robot** | 2026.03 ~ 2026.11 | • ROS2·Nav2 기반 자율주행<br>• LiDAR SLAM·위치 추정<br>• Vision AI 이상행동 탐지<br>• Raspberry Pi·Pico 제어 시스템 | **Capstone Project** |
 
